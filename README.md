@@ -11,7 +11,7 @@
 
 <a class="anchor" id="about_the_project"></a>
 >## About the Project
-Include a summary of the project here.
+This project explores the use of Mardkown and HTML to create documentation for projects.
 
 <a class="anchor" id="tools"></a>
 >## Tools
